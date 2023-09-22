@@ -1,0 +1,8 @@
+com\company\locadoracp\LocadoraCP.class
+com\company\locadoracp\Fita.class
+com\company\locadoracp\FitaInfantil.class
+com\company\locadoracp\FitaLancamento.class
+com\company\locadoracp\LocadoraController.class
+com\company\locadoracp\Aluguel.class
+com\company\locadoracp\Cliente.class
+com\company\locadoracp\FitaNormal.class
